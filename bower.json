@@ -1,0 +1,25 @@
+{
+  "name": "geekapp",
+  "description": "Tutorial de javascript",
+  "main": "index.js",
+  "authors": [
+    "billy caballero"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "javascript"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Materialize": "materialize#^0.97.6",
+    "handlebars": "^4.0.5"
+  }
+}
